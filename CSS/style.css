@@ -95,7 +95,7 @@ html{
 
         #home::before {
             content: "";
-            background: url(./images/burger.jpg) no-repeat center center/cover;
+            background: url(./IMAGES/burger.jpg) no-repeat center center/cover;
             position: absolute;
             top: 0px;
             height: 57%;
@@ -171,7 +171,7 @@ html{
         #client-section::before {
             content: "";
             position: absolute;
-            background: url(./images/clients.jpg) no-repeat center center/cover;
+            background: url(./IMAGES/clients.jpg) no-repeat center center/cover;
             width: 100%;
             height: 100%;
             z-index: -1;
